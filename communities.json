@@ -558,6 +558,12 @@
       "logo": "rust.svg"
     },
     {
+      "title": "Sapphire",
+      "githubUrl": "https://github.com/sapphiredev",
+      "inviteCode": "sapphiredev",
+      "logo": "sapphire.svg"
+    },
+    {
       "title": "Scala",
       "githubUrl": "https://github.com/scala",
       "inviteCode": "scala",
